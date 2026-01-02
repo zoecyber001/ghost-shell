@@ -1,0 +1,9 @@
+opencv-python
+python-chess
+keyboard
+numpy
+stockfish
+pyautogui
+mss
+python-dotenv
+pywin32

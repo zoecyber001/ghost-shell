@@ -1,0 +1,25 @@
+# Binaries
+assets/stockfish.exe
+*.exe
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Debug files
+debug_vision.jpg
+
+# OS
+.DS_Store
+Thumbs.db
